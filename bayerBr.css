@@ -1,6 +1,6 @@
 :root {
-    --background-brand-primary-default: 0 255 0 !important;
-    --primary: 255 150 83 !important;
-    --test: 255 255 255 !important;
-    --secondary: 0 255 0 !important;
+    --background-brand-primary-default: rgb(0 255 0) !important;
+    --primary: rgb(255 150 83) !important;
+    --test: rgb(255 255 255) !important;
+    --secondary: rgb(0 255 0) !important;
 }
